@@ -1,0 +1,123 @@
+[10-May-2017 23:21:32 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[10-May-2017 23:21:32 Asia/bangkok] PHP Stack trace:
+[10-May-2017 23:21:32 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 23:21:32 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 23:21:32 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 23:21:32 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 23:21:32 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 23:21:32 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[10-May-2017 23:21:32 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[10-May-2017 23:21:32 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[10-May-2017 23:21:32 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
+[10-May-2017 23:25:42 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[10-May-2017 23:25:42 Asia/bangkok] PHP Stack trace:
+[10-May-2017 23:25:42 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 23:25:42 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 23:25:42 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 23:25:42 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 23:25:42 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 23:25:42 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[10-May-2017 23:25:42 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[10-May-2017 23:25:42 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[10-May-2017 23:25:42 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
+[10-May-2017 23:26:33 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[10-May-2017 23:26:33 Asia/bangkok] PHP Stack trace:
+[10-May-2017 23:26:33 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 23:26:33 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 23:26:33 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 23:26:33 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 23:26:33 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 23:26:33 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[10-May-2017 23:26:33 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[10-May-2017 23:26:33 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[10-May-2017 23:26:33 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
+[10-May-2017 23:34:54 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[10-May-2017 23:34:54 Asia/bangkok] PHP Stack trace:
+[10-May-2017 23:34:54 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 23:34:54 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 23:34:54 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 23:34:54 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 23:34:54 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 23:34:54 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[10-May-2017 23:34:54 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[10-May-2017 23:34:54 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[10-May-2017 23:34:54 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
+[10-May-2017 23:35:11 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[10-May-2017 23:35:11 Asia/bangkok] PHP Stack trace:
+[10-May-2017 23:35:11 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 23:35:11 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 23:35:11 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 23:35:11 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 23:35:11 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 23:35:11 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[10-May-2017 23:35:11 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[10-May-2017 23:35:11 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[10-May-2017 23:35:11 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
+[10-May-2017 16:36:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ubuntu/workspace/message-board/config/app.php on line 199
+[10-May-2017 16:36:12 UTC] PHP Stack trace:
+[10-May-2017 16:36:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 16:36:12 UTC] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 16:36:12 UTC] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 16:36:12 UTC] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 16:36:12 UTC] PHP   5. Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 16:36:12 UTC] PHP   6. Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php:38
+[10-May-2017 16:38:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ubuntu/workspace/message-board/config/app.php on line 199
+[10-May-2017 16:38:21 UTC] PHP Stack trace:
+[10-May-2017 16:38:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 16:38:21 UTC] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 16:38:21 UTC] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 16:38:21 UTC] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 16:38:21 UTC] PHP   5. Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 16:38:21 UTC] PHP   6. Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php:38
+[10-May-2017 16:41:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/ubuntu/workspace/message-board/config/app.php on line 200
+[10-May-2017 16:41:06 UTC] PHP Stack trace:
+[10-May-2017 16:41:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 16:41:06 UTC] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 16:41:06 UTC] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 16:41:06 UTC] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 16:41:06 UTC] PHP   5. Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 16:41:06 UTC] PHP   6. Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php:38
+[10-May-2017 23:52:23 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[10-May-2017 23:52:23 Asia/bangkok] PHP Stack trace:
+[10-May-2017 23:52:23 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[10-May-2017 23:52:23 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[10-May-2017 23:52:23 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[10-May-2017 23:52:23 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[10-May-2017 23:52:23 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[10-May-2017 23:52:23 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[10-May-2017 23:52:23 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[10-May-2017 23:52:23 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[10-May-2017 23:52:23 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
+[11-May-2017 02:39:49 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[11-May-2017 02:39:49 Asia/bangkok] PHP Stack trace:
+[11-May-2017 02:39:49 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[11-May-2017 02:39:49 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[11-May-2017 02:39:49 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[11-May-2017 02:39:49 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[11-May-2017 02:39:49 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[11-May-2017 02:39:49 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[11-May-2017 02:39:49 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[11-May-2017 02:39:49 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[11-May-2017 02:39:49 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
+[11-May-2017 16:08:35 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[11-May-2017 16:08:35 Asia/bangkok] PHP Stack trace:
+[11-May-2017 16:08:35 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[11-May-2017 16:08:35 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[11-May-2017 16:08:35 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[11-May-2017 16:08:35 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[11-May-2017 16:08:35 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[11-May-2017 16:08:35 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[11-May-2017 16:08:35 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[11-May-2017 16:08:35 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[11-May-2017 16:08:35 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
+[11-May-2017 16:31:40 Asia/bangkok] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[11-May-2017 16:31:40 Asia/bangkok] PHP Stack trace:
+[11-May-2017 16:31:40 Asia/bangkok] PHP   1. {main}() /home/ubuntu/workspace/message-board/artisan:0
+[11-May-2017 16:31:40 Asia/bangkok] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/ubuntu/workspace/message-board/artisan:36
+[11-May-2017 16:31:40 Asia/bangkok] PHP   3. Illuminate\Foundation\Console\Kernel->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:105
+[11-May-2017 16:31:40 Asia/bangkok] PHP   4. Illuminate\Foundation\Application->bootstrapWith() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:208
+[11-May-2017 16:31:40 Asia/bangkok] PHP   5. Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:203
+[11-May-2017 16:31:40 Asia/bangkok] PHP   6. Illuminate\Foundation\Application->registerConfiguredProviders() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php:17
+[11-May-2017 16:31:40 Asia/bangkok] PHP   7. Illuminate\Foundation\ProviderRepository->load() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:507
+[11-May-2017 16:31:40 Asia/bangkok] PHP   8. Illuminate\Foundation\ProviderRepository->compileManifest() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:60
+[11-May-2017 16:31:40 Asia/bangkok] PHP   9. Illuminate\Foundation\ProviderRepository->createProvider() /home/ubuntu/workspace/message-board/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php:114
