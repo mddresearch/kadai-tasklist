@@ -2,9 +2,12 @@
 
 @section('content')
 
+    <div class="row">
+        <div class="col-xs-12 col-sm-offset-2 col-sm-6 col-md-offset-2 col-md-6 col-lg-offset-3 col-lg-3">
+
     <h1>タスク一覧</h1>
 
-   @if (count($tasks) > 0)
+    @if (count($tasks) > 0)
         <table class="table table-striped">
             <thead>
                 <tr>
