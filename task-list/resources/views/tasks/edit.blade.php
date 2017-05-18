@@ -3,7 +3,7 @@
 @section('content')
 
     <div class="row">
-        <div class="col-xs-12 col-sm-offset-2 col-sm-6 col-md-offset-2 col-md-6 col-lg-offset-3 col-lg-3">
+        <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-3 col-lg-6">
 
     <h1>id: {{ $task->id }} 編集ページ</h1>
 
